@@ -1,0 +1,9 @@
+﻿  final.cpp
+c:\users\hp\source\repos\budget tracker final\budget tracker final\final.cpp(32): warning C4101: 'exit1': unreferenced local variable
+c:\users\hp\source\repos\budget tracker final\budget tracker final\final.cpp(657): warning C4101: 'newCost': unreferenced local variable
+c:\users\hp\source\repos\budget tracker final\budget tracker final\final.cpp(702): warning C4101: 'newCost': unreferenced local variable
+c:\users\hp\source\repos\budget tracker final\budget tracker final\final.cpp(754): warning C4101: 'newCost': unreferenced local variable
+c:\users\hp\source\repos\budget tracker final\budget tracker final\final.cpp(780): warning C4101: 'newValue': unreferenced local variable
+  Source.cpp
+  Generating Code...
+  Budget tracker final.vcxproj -> C:\Users\HP\source\repos\Budget tracker final\Debug\Budget tracker final.exe
